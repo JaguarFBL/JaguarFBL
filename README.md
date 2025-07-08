@@ -1,5 +1,3 @@
-!(https://github.com/JaguarFBL/mesgifs/blob/main/hello-149_256.gif)
-Hello word 🌐​
 # Mon Profil GitHub
 
 Hello word 🌐​
