@@ -8,5 +8,6 @@
 	</head>
 	<body>
 		Hello word 🌐​
+		<img src="https://tenor.com/fr/view/bonjour-et-bonne-journe-gif-25777995" alt="Description de l'image" width="200" height="200">
 	</body>
 </html>
