@@ -7,3 +7,8 @@ Bienvenue sur mon profil GitHub !
 
 N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions.
 
+| Aligné à gauche  | Centré          | Aligné à droite |
+| :--------------- |:---------------:| -----:|
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
