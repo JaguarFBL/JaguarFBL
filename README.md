@@ -1,13 +1,11 @@
+!(https://github.com/JaguarFBL/mesgifs/blob/main/hello-149_256.gif)
+Hello word 🌐​
+# Mon Profil GitHub
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
-		https://github.com/JaguarFBL/JaguarFBL/blob/main/hello-149_256.gif
-		Hello word 🌐​
-	</body>
-</html>
+Hello word 🌐​
+Bienvenue sur mon profil GitHub !
+
+![Mon GIF](https://github.com/JaguarFBL/mesgifs/blob/main/hello-149_256.gif)
+
+N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions.
+
