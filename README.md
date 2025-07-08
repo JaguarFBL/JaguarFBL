@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
+		https://github.com/JaguarFBL/JaguarFBL/blob/main/hello-149_256.gif
 		Hello word 🌐​
 	</body>
 </html>
