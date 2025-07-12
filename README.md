@@ -25,12 +25,14 @@ Je suis un développeur passionné par la technologie et l'innovation.
 * Mistral IA 
 * Windows11/Kali linux/Ubuntu
  * VS code
- * un autre sous élément
-* un dernier élément
+ * Spotify
+* Youtube
+* Brave
+* Firefox
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin: 25px 50px 75px;">
   <img src="https://github-readme-stats.vercel.app/api?username=JaguarFBL&show_icons=true&theme=radical" alt="Your GitHub stats" style="height: 140px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaguarFBL&layout=compact&theme=radical" alt="Top Langs" style="height: 140px;" />
 </div>
@@ -50,14 +52,11 @@ Je suis un développeur passionné par la technologie et l'innovation.
 - [Article 1](https://yourblog.com/article1) : Description de l'article 1.
 - [Article 2](https://yourblog.com/article2) : Description de l'article 2.
 
-## 🎵 Musique
-
-Je suis actuellement en train d'écouter [Spotify](https://open.spotify.com/user/JaguarFBL).
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [Email](mailto:youremail@example.com)
+
 
 
