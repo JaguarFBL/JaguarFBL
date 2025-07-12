@@ -15,14 +15,6 @@ N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des ques
 | faire un peu trop de Vibe coding   | 17/10           |   à la création de chatgpt (les geeks ont se calme, maintanant je suis sur Mistral IA ​🐱​) |
 | avoir des projets ps: je les fini pas  | 100/10         |    milieu de lycée |
 
-# My objectifs
-
-**FBL project**
-
-![Votre graphique d'activité GitHub](https://github-readme-stats.vercel.app/api?username=JaguarFBL&show_icons=true&theme=radical)
-
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=JaguarFBL&layout=compact&theme=radical)
-
 
 # Hi there 👋
 
@@ -38,12 +30,20 @@ Je suis un développeur passionné par la technologie et l'innovation.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaguarFBL&show_icons=true&theme=radical" alt="Your GitHub stats" style="height: 140px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaguarFBL&layout=compact&theme=radical" alt="Top Langs" style="height: 140px;" />
+</div>
 
 ## 🌟 Projets en vedette
 
 - [Projet 1](https://github.com/yourusername/project1) : Description du projet 1.
 - [Projet 2](https://github.com/yourusername/project2) : Description du projet 2.
+
+# My objectifs
+
+**FBL project**
+
 
 ## 📝 Blog
 
