@@ -52,7 +52,7 @@ Je suis un développeur passionné par la technologie et l'innovation.
 
 ## 🎵 Musique
 
-Je suis actuellement en train d'écouter [Spotify](https://open.spotify.com/user/yourusername).
+Je suis actuellement en train d'écouter [Spotify](https://open.spotify.com/user/JaguarFBL).
 
 ## 📫 Contact
 
