@@ -4,8 +4,6 @@ Hello word 🌐​
 
 Bienvenue sur mon profil GitHub !
 
-![Mon GIF](https://github.com/JaguarFBL/mesgifs/blob/main/music-player-12130_256.gif)
-![Mon GIF](https://github.com/JaguarFBL/mesgifs/blob/main/world-wide-web-11102_256.gif)
 
 N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions.
 
