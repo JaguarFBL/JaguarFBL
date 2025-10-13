@@ -11,7 +11,7 @@ Je suis un développeur passionné par la technologie et l'innovation.
 ## 🔧 Technologies & Tools
 
 * Mistral IA 
-* Windows11/Kali linux/Ubuntu
+* Windows11/Kali linux/Ubuntu/Mint
  * VS code
  * Spotify
 * Youtube
