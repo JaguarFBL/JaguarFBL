@@ -14,7 +14,7 @@ Je suis un développeur passionné par la technologie et l'innovation.
 * Windows11/Kali linux/Ubuntu/Mint
  * VS code
  * Spotify
-* Youtube
+* Youtube/ openclass room
 * Brave
 * Firefox
 
