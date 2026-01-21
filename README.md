@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 * Mistral IA 
 * Windows11/Kali linux/Ubuntu/Mint
@@ -12,7 +12,7 @@
 * Brave
 * Firefox
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; margin: 25px 50px 75px;">
   <img src="https://github-readme-stats.vercel.app/api?username=JaguarFBL&show_icons=true&theme=radical" alt="Your GitHub stats" style="height: 140px;" />
