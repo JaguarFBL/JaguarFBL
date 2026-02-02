@@ -8,7 +8,7 @@
 * Windows11/Kali linux/Ubuntu/Mint
  * VS code
  * Spotify
-* Youtube/ openclass room
+* Youtube
 * Brave
 * Firefox
 
