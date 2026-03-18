@@ -4,12 +4,12 @@
 
 ## Technologies & Tools
 
-* Mistral IA/Claude
-* Windows11/Kali linux/Ubuntu/Mint
+* Mistral IA / Claude
+* Windows11 / Kali linux / Ubuntu / Mint
  * VS code
  * Spotify
 * Youtube
-* Brave/Firefox
+* Brave / Firefox
 
 ## GitHub Stats
 ![GIF local](JaguarFBL-space-shooter.gif)<br>
