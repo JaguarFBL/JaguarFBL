@@ -1,5 +1,3 @@
-# My Profil GitHub
-
 # Hi there 👋
 
 ## Technologies & Tools
