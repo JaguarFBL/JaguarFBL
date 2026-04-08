@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, developmen
 
  I leverage cutting-edge tools and technologies to build innovative solutions and explore new possibilities in the digital space.
 
- ![Portfolio]([https://jaguarfbl.github.io/folio/])
+ [Portfolio]([https://jaguarfbl.github.io/folio/])
 
 ---
 
