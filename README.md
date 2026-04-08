@@ -2,11 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, development, and open-source projects. Here you'll find my latest work and contributions to the tech community.
 
----
-
-## 👨‍💻 About Me
-
-I'm a developer and tech enthusiast interested in AI/ML, cybersecurity, and software development. I leverage cutting-edge tools and technologies to build innovative solutions and explore new possibilities in the digital space.
+ I leverage cutting-edge tools and technologies to build innovative solutions and explore new possibilities in the digital space.
 
 ---
 
