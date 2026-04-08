@@ -47,8 +47,6 @@ I'm a developer and tech enthusiast interested in AI/ML, cybersecurity, and soft
 
 ![Space Shooter](JaguarFBL-space-shooter.gif)
 
-This GIF showcases one of my game development projects - a space shooter game demonstrating game mechanics, graphics, and interactive gameplay.
-
 ---
 
 ## 📂 What You'll Find Here
@@ -57,12 +55,6 @@ This GIF showcases one of my game development projects - a space shooter game de
 * **Contributions** - Open-source contributions and community work
 * **Learning** - Educational repositories and tutorials
 * **Experiments** - Proof of concepts and experimental code
-
----
-
-## 🤝 Connect With Me
-
-Feel free to explore my repositories, check out my projects, and don't hesitate to reach out if you'd like to collaborate or discuss tech!
 
 ---
 
