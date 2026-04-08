@@ -45,13 +45,4 @@ Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, developmen
 
 ---
 
-## 📂 What You'll Find Here
-
-* **Projects** - Personal and collaborative coding projects
-* **Contributions** - Open-source contributions and community work
-* **Learning** - Educational repositories and tutorials
-* **Experiments** - Proof of concepts and experimental code
-
----
-
 **Last Updated:** March 2026
