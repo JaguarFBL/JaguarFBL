@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, developmen
 
  I leverage cutting-edge tools and technologies to build innovative solutions and explore new possibilities in the digital space.
 
+ ![Portfolio]([https://jaguarfbl.github.io/folio/])
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -38,8 +40,6 @@ Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, developmen
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaguarFBL&layout=compact&theme=radical)
 
 ---
-
-## 🎮 Featured Project
 
 ![Space Shooter](JaguarFBL-space-shooter.gif)
 
