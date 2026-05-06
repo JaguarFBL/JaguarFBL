@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm passionate about AI, cybersecurity, developmen
 
  I leverage cutting-edge tools and technologies to build innovative solutions and explore new possibilities in the digital space.
 
- Portfolio : https://jaguarfbl.github.io/folio/
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaguarfbl.github.io/folio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ---
