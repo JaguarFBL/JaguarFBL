@@ -9,3 +9,7 @@ Welcome to my GitHub profile! I'm passionated in AI, cybersecurity, development,
 [![Nova](https://img.shields.io/badge/Nova-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://foyer.free.nf/profiluti.php?pseudo=Louan)
 
 ---
+
+## 🎮 Projects
+
+![Space Shooter](JaguarFBL-space-shooter.gif)
